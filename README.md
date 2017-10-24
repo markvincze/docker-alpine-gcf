@@ -1,3 +1,3 @@
-# docker-alpine-gcloud-git-nodejs-serverless
+# docker-alpine-gcf
 
 Docker image for deploying node.js serverless apps to GCloud
